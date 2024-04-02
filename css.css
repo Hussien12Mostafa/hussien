@@ -1,0 +1,31 @@
+
+.user-container {
+    margin-top: 20px;
+}
+/* Style for username buttons */
+.username-button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.username-button:hover {
+    background-color: #45a049;
+}
+
+/* Style for post titles */
+#postList {
+    margin-top: 20px;
+}
+
+#postList li {
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: #834949;
+    border-radius: 5px;
+}
